@@ -1,0 +1,4 @@
+#Mon Dec 05 16:53:49 SGT 2022
+base.0=F\:\\Jeffrey Lonzanida\\Game Development\\Projects\\JumpNinja\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
